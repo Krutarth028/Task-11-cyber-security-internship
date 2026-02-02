@@ -1,0 +1,22 @@
+PHISHING RED FLAGS IDENTIFIED
+
+1. Urgent Language
+The email creates fear by asking the user to act immediately.
+
+2. Generic Greeting
+The email does not mention the user's real name.
+
+3. Suspicious Link
+The link does not belong to a trusted domain.
+
+4. Request for Credentials
+The login page asks for email and password.
+
+5. No Official Branding
+There is no official logo or verified sender information.
+
+6. Poor Verification
+No proper authentication or secure verification is shown.
+
+Conclusion:
+These indicators clearly show that the email is a phishing attempt.

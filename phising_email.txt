@@ -1,0 +1,12 @@
+Subject: Urgent – Verify Your Account Immediately
+
+Dear User,
+
+We detected suspicious activity on your account.
+Please verify your account within 24 hours to avoid suspension.
+
+Click here to verify:
+http://fake-login-page.com
+
+Thank you,
+Security Team

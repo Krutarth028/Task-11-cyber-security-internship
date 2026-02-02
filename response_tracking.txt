@@ -1,0 +1,3 @@
+Email sent: 1 (self-test)
+Link clicked: 1
+Credentials submitted: 0
